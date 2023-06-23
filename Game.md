@@ -48,4 +48,4 @@
 
 如果您对本隐私权政策有任何疑问或需要进一步了解，请通过以下方式与我们联系：
 
-- Email: [privacy@example.com](mailto:privacy@example.com)
+- Email: [https://github.com/JustOneStep1/Privacy-Policy/blob/main/Game.md](mailto:https://github.com/JustOneStep1/Privacy-Policy/blob/main/Game.md)
